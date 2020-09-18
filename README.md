@@ -28,7 +28,7 @@ Moduł VR prezentacji produktu - interakcja lokomocyjna `gaze teleportation` w t
  tryb imersywny aplikacji w przeglądarce Chrome na telefonie. <br><br> ![](./docs/localhost_data.png) <br><br>
  W przypadku gdy adres z poziomu telefonu jest niedostępny można tymczasowo wyłączyć firewall komputera lub dodać do niego regułę.
  
- 4. Podepnij telefon do komputera i używając DevTools w przeglądarce Chrome komputera (adres: ```chrome://inspect/#devices```),  
+ 4. Podepnij telefon do komputera i używając DevTools w przeglądarce Chrome komputera <br>(adres: ```chrome://inspect/#devices```),  
  uzyskaj dostęp do konsoli Chrome w telefonie, w tym celu przeprowadź inspekcje kart przeglądarki telefonu.
  
 ## Schemat zadania
