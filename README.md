@@ -1,7 +1,7 @@
 # Zadanie rekrutacyjne
 
 Moduł VR prezentacji produktu - interakcja lokomocyjna `gaze teleportation` w trybie `immersive-vr` (XRSession).
-<br>
+<br><br>
 ![](./docs/immersive-mode.jpg)
 ## Informacje wstępne
 
