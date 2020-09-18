@@ -1,0 +1,23 @@
+{
+  "name": "RecruitmentTaskVr",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "cross-env nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "three": "^0.116.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "cross-env": "^7.0.2",
+    "nuxt-compress": "^1.1.0",
+    "push-dir": "^0.4.1",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.1"
+  }
+}
