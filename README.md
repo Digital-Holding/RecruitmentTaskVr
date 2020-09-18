@@ -25,7 +25,7 @@ Moduł VR prezentacji produktu - interakcja lokomocyjna `gaze teleportation` w t
  2. Zbuduj wersje deweloperską na _localhost_ ```yarn dev```
  
  3. W obrębie jednej sieci (przypis 1) używając danych wypisanych w konsoli (np. ```https://10.80.0.60:8000```) możesz testować 
- tryb imersywny aplikacji w przeglądarce Chrome na telefonie. <br> ![](./docs/localhost_data.png) <br>
+ tryb imersywny aplikacji w przeglądarce Chrome na telefonie. <br><br> ![](./docs/localhost_data.png) <br><br>
  W przypadku gdy adres z poziomu telefonu jest niedostępny można tymczasowo wyłączyć firewall komputera lub dodać do niego regułę.
  
  4. Podepnij telefon do komputera i używając DevTools w przeglądarce Chrome komputera (adres: ```chrome://inspect/#devices```),  
